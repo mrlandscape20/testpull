@@ -1,0 +1,1 @@
+echo "file2 of new branch"
